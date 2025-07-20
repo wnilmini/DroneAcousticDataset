@@ -8,6 +8,8 @@ Also, for the paper "Drone audition: Audio signal enhancement from drone embedde
 
 Paper: https://www.sciencedirect.com/science/article/pii/S0003682X23006163
 
-Drone Acoustic Dataset using Measured Impulse Responses are uploaded to Zenodo (https://zenodo.org/records/16197912), and the readme file here contains the microphone array configuration on the drone.
+(1) Drone Acoustic Dataset using Measured Impulse Responses is uploaded to Zenodo (https://zenodo.org/records/16197912), and the readme file here contains the microphone array configuration on the drone.
+
+(2) Motor Current-Specific Drone Noise dataset is uploaded to Zenodo ().
 
 
