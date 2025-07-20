@@ -10,6 +10,6 @@ Paper: https://www.sciencedirect.com/science/article/pii/S0003682X23006163
 
 (1) Drone Acoustic Dataset using Measured Impulse Responses is uploaded to Zenodo (https://zenodo.org/records/16197912), and the readme file here contains the microphone array configuration on the drone.
 
-(2) Motor Current-Specific Drone Noise dataset is uploaded to Zenodo ().
+(2) Motor Current-Specific Drone Noise dataset is uploaded to Zenodo (https://zenodo.org/records/16196947).
 
 
