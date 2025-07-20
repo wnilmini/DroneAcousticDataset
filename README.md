@@ -6,6 +6,6 @@ Paper: https://ieeexplore.ieee.org/abstract/document/9670693
 
 Also, for the paper "Drone audition: Audio signal enhancement from drone embedded microphones using multichannel Wiener filtering and Gaussian-mixture based post-filtering" published in Applied Acoustics 2024.
 
-Drone Acoustic Dataset using Measured Impulse Responses are uploaded to Zenodo (https://zenodo.org/records/16197912).
+Drone Acoustic Dataset using Measured Impulse Responses are uploaded to Zenodo (https://zenodo.org/records/16197912), and the readme file here contains the microphone array configuration on the drone.
 
 
